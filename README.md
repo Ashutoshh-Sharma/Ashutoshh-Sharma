@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn.dribbble.com/userupload/4289714/file/original-7900acf8e78dba8f8c570cb8dad93845.png?resize=1024x658"  />
+  <img height="250" src="https://cdn.dribbble.com/userupload/4289714/file/original-7900acf8e78dba8f8c570cb8dad93845.png?resize=1024x658"  />
 </div>
 
 ###
@@ -58,9 +58,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
