@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://cdn.dribbble.com/userupload/4289714/file/original-7900acf8e78dba8f8c570cb8dad93845.png?resize=1024x658"  />
+  <img height="350" src="https://cdn.dribbble.com/userupload/4289714/file/original-7900acf8e78dba8f8c570cb8dad93845.png?resize=1024x658"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🔭 I’m a BCA 2nd-year student, passionate about web development.<br><br>📚 Currently learning and exploring various aspects of web technologies to enhance my skills.<br><br>⚡ In my free time, I love to read news about technologies and explore it.<br><br>Feel free to explore my repositories and don't hesitate to connect with me! 🚀</p>
+<p align="left">🔭 I’m a BCA 2nd-year student, passionate about web development.<br><br>📚 Currently learning and exploring various aspects of web technologies to enhance my skills.<br><br>⚡ In my free time, I love to read news about technologies and explore them.<br><br>Feel free to explore my repositories and don't hesitate to connect with me! 🚀</p>
 
 ###
 
@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canvas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
