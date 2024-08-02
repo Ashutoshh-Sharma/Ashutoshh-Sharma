@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🔭 I’m a BCA 2nd-year student, passionate about web development.<br><br>📚 Currently learning and exploring various aspects of web technologies to enhance my skills.<br><br>⚡ In my free time, I love to read news about technologies and explore them.<br><br>Feel free to explore my repositories and don't hesitate to connect with me! 🚀</p>
+<p align="left">🔭 I’m a BCA 3rd-year student, passionate about web development.<br><br>📚 Currently learning and exploring various aspects of web technologies to enhance my skills.<br><br>⚡ In my free time, I love to read news about technologies and explore them.<br><br>Feel free to explore my repositories and don't hesitate to connect with me! 🚀</p>
 
 ###
 
